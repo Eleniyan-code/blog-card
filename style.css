@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: hsl(47, 88%, 63%);
+    position: relative;
+    font-family: 'Figtree', sans-serif;
+
+}
+
+#wrapper{
+    height: 600px;
+    width: 500px;
+    border: 1px solid black;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #fff
+    ;
+}
+
+#avatar {
+    border-radius: 9px;
+}
+
+button {
+    margin-top: 25px;
+    width: 100px;
+    height: 30px;
+    background-color: hsl(47, 88%, 63%);
+    border: hsl(47, 88%, 63%);
+    font-size: large;
+    font-weight: 600;
+    border-radius: 4px;
+}
+
+#gray {
+    color: hsl(0, 0%, 50%);
+    width: 400px;
+    font-weight: 800;
+    word-spacing: 10px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#Greg {
+    margin-left: 80px;
+    margin-top: -40px;
+    /* border: 7px dotted black; */
+}
+
